@@ -1,0 +1,15 @@
+{
+  "name": "clickify-render",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^121.0.0",
+    "puppeteer-core": "^21.5.2"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
